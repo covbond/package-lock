@@ -1,0 +1,12 @@
+{
+  "name": "create-lock",
+  "version": "1.0.0",
+  "description": "create package-lock.json",
+  "main": "index.js",
+  "scripts": {},
+  "author": "covbond",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.0.0"
+  }
+}

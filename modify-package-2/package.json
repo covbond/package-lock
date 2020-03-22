@@ -1,0 +1,12 @@
+{
+  "name": "test-lock",
+  "version": "1.0.0",
+  "description": "test package-lock",
+  "main": "index.js",
+  "scripts": {},
+  "author": "covbond",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^3.0.0"
+  }
+}
